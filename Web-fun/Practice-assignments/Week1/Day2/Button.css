@@ -1,0 +1,33 @@
+.buttonup {
+    margin-left: 50px;
+    margin-top: 50px;
+}
+#button1 {
+    color: #149C9E;
+    background-color:#F5F5F5;
+    border-color:#149C9E;
+    width: 120px;
+    height: 25px;
+    border-radius: 20px;
+    margin: 10px;
+}
+#button2 {
+    background-color: #00D1B2;
+    color: white;
+    border-radius: 50%;
+    margin: 10px;
+    border-color: #00D1B2;
+    height: 30px;
+    width:30px;
+    font-size:20px;
+
+}
+#button3 {
+    background-color: #2B78E4;
+    color:#F5F5F5;
+    margin:10px;
+    box-shadow: 3px 3px 1px 1px black;
+    height:30px;
+    width:140px
+
+}
