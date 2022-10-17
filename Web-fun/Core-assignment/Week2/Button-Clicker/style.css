@@ -1,0 +1,95 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+    text-decoration: none;
+    list-style-type: none;
+}
+
+nav {
+    background-color: #CCCCCC;
+    width: 80%;
+    height: 60px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-left: 10%;
+}
+.btn button {
+    background-color: #2B78E4;
+    color: white;
+    width: 50px;
+    box-shadow:  2px 2px black;
+}
+
+input {
+    width: 250px
+}
+
+.head{
+    display: flex;
+    padding: 20px 35px 20px 10px;
+    margin-left: 6%;
+}
+
+.left {
+    margin-left: 3%;
+    width: 130%;
+}
+
+.top, .down {
+    border: solid 2px black;
+    width: 97%;
+    margin-bottom: 4%;
+    height: 45%;
+}
+.ninja, .ninja2{
+    display: flex;
+    
+}
+
+.ninjatop, .ninjatop2 {
+    margin: 10px;
+}
+.text0, .text2{
+    padding: 50px;
+
+} 
+.soustop, .soustop2 {
+    width: 100px;
+
+}
+.noun, .noun2{
+    padding: 15px;
+}
+.btn1, .btn2 {
+    background-color:#FFD966;
+    width: 70px;
+    height: 25px;
+    box-shadow: 2px 2px black;
+    margin-top: 20px;
+}
+
+
+
+.right {
+    border: solid 2px black;
+    height: 130px;
+    width: 420px;
+    margin-right: 35px;
+    margin-left: 15px ;
+    font-size: 11px;
+}
+
+.right h1 {
+    margin: 10px;
+}
+
+.add {
+    background-color: #93C47D;
+    width: 90%;
+    height: 20%;
+    margin-left: 10px;
+    margin-top: 9px;
+    box-shadow: 2px 2px black;
+} 
