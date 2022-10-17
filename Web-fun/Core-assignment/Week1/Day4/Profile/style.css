@@ -94,7 +94,7 @@ nav {
     align-items: center;
     margin-left: 4%;
     position: relative;
-    bottom:0px
+    bottom: 40px
 
 }
 
@@ -119,8 +119,8 @@ nav {
     gap: 10px;
     position: relative;
     bottom:30px
-    
-    
+
+
 
 }
 a{
@@ -129,7 +129,7 @@ a{
 }
 .edit img {
     width: 2%;
-    
+
 } 
 
 
@@ -165,7 +165,7 @@ a{
     height: 125px;
     width: 235px;
     align-items: center;
-    
+
 }
 
 .PP {
@@ -179,7 +179,7 @@ a{
     height: 180px;
 }
 
-    
+
 
 
 .icon1 {
@@ -218,7 +218,7 @@ h4 {
     color: #ffff;
     justify-content: space-around;
     align-items: center;
-    
+
 }
 
 .titre h5 {
@@ -269,7 +269,7 @@ h4 {
 
 }
 
-    
+
 .title {
     background-color:#333333;
     border:solid #CBCBCB;
@@ -292,3 +292,9 @@ h4 {
     color: #CBCBCB;
     margin-bottom: 10px;
 }
+
+
+
+
+
+
